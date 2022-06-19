@@ -1,1 +1,1 @@
-# Qt-Project-One-Notepad-Application
+# Qt-Projects
