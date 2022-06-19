@@ -1,0 +1,15 @@
+# ninja log v5
+2	678	6773236027961964	QtTest_autogen/timestamp	e39cd0b4b3cb2268
+2	678	6773236027961964	QtTest_autogen/mocs_compilation.cpp	e39cd0b4b3cb2268
+2	678	6773236027961964	C:/Users/toby0/Documents/QtProjects/QtTest/build-QtTest-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/QtTest_autogen/timestamp	e39cd0b4b3cb2268
+2	678	6773236027961964	C:/Users/toby0/Documents/QtProjects/QtTest/build-QtTest-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/QtTest_autogen/mocs_compilation.cpp	e39cd0b4b3cb2268
+684	2322	6773236045609252	CMakeFiles/QtTest.dir/mainwindow.cpp.obj	496797f2e80e7c3d
+679	2338	6773236045744419	CMakeFiles/QtTest.dir/QtTest_autogen/mocs_compilation.cpp.obj	f4e2169d6429f1d0
+688	2345	6773236045924458	CMakeFiles/QtTest.dir/main.cpp.obj	7fa6f142183029c6
+2345	2617	6773236048504964	QtTest.exe	52b9e61141cb18f9
+29	263	6773239892165893	QtTest_autogen/timestamp	e39cd0b4b3cb2268
+29	263	6773239892165893	QtTest_autogen/mocs_compilation.cpp	e39cd0b4b3cb2268
+29	263	6773239892165893	C:/Users/toby0/Documents/QtProjects/QtTest/build-QtTest-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/QtTest_autogen/timestamp	e39cd0b4b3cb2268
+29	263	6773239892165893	C:/Users/toby0/Documents/QtProjects/QtTest/build-QtTest-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/QtTest_autogen/mocs_compilation.cpp	e39cd0b4b3cb2268
+270	1748	6773239906998449	CMakeFiles/QtTest.dir/mainwindow.cpp.obj	496797f2e80e7c3d
+1748	1924	6773239908714945	QtTest.exe	52b9e61141cb18f9
